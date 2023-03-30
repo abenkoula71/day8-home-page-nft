@@ -3,7 +3,6 @@
 <hr>
 <h3>Home</h3> 
 
-
 <img src="https://github.com/abenkoula71/day8-home-page-nft/blob/main/Screenshot_1680187414.png" width="300" /> 
 
 
