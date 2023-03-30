@@ -1,4 +1,3 @@
-
 <h1> day8 home page nft flutter</h1>  
  
  
