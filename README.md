@@ -1,7 +1,6 @@
 <h1> day8 home page nft flutter</h1>  
 
 
-
 <h4> You can change the information and link it to the databases ....</h4>
 
 
